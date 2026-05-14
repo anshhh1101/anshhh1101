@@ -47,6 +47,18 @@ Additional: Feature Engineering, Model Evaluation, Data Modeling
 ---
 
 ## Featured Projects
+## 🚀 Featured Projects
+
+### 📚 StudyMind — AI Teaching Assistant
+**Tech Stack:** Python, FastAPI, React, PostgreSQL, Gemini API, Tailwind CSS
+
+- Built an AI-powered RAG (Retrieval-Augmented Generation) assistant that answers questions from uploaded PDFs in natural language
+- Implemented end-to-end document pipeline using `pdfplumber`, embeddings, cosine similarity, and Gemini LLMs
+- Developed vector-search workflow with PostgreSQL for semantic document retrieval
+- Designed modern glassmorphism chat UI with real-time AI responses
+- Planned scalable improvements including `pgvector`, JWT auth, quiz generation, and AWS deployment
+  
+---
 
 ### Advanced Glaucoma Detection System
 **Tech Stack:** Python, OpenCV, Scikit-learn, Image Processing  
