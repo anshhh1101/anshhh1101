@@ -1,108 +1,193 @@
-# Anshuman Dev
+# Hi 👋, I'm Anshuman Dev
 
-Computer Science & Engineering student at the Kalinga Institute of Industrial Technology.  
-Focused on building AI-driven applications and analyzing complex datasets to deliver actionable insights.  
-Currently advancing skills in Data Science and Machine Learning.
+<h3 align="center">AI/ML Enthusiast • Data Science Learner • Full-Stack Developer</h3>
+
+<p align="center">
+  <a href="https://github.com/anshhh1101">
+    <img src="https://komarev.com/ghpvc/?username=anshhh1101&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
 ---
 
-## Technical Skills
+## 🚀 About Me
 
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+🎓 B.Tech Computer Science & Engineering student at **Kalinga Institute of Industrial Technology (KIIT)**  
+🤖 Passionate about **Artificial Intelligence, Machine Learning, and Data Science**  
+💡 Interested in building real-world AI systems and intelligent applications  
+📈 Currently improving my skills in **Generative AI, Deep Learning, and System Design**  
+💻 Solved **200+ DSA problems** on LeetCode & GeeksforGeeks  
 
-### Libraries & Frameworks
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+---
 
-Additional: Feature Engineering, Model Evaluation, Data Modeling
+## 🛠️ Tech Stack
 
-### Data Science & Analytics
-- Machine Learning  
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,sql,javascript" />
+</p>
+
+### 🤖 AI / ML / Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+- Pandas  
+- NumPy  
+- Scikit-Learn  
+- OpenCV  
+- Feature Engineering  
+- Model Evaluation  
 - Data Analysis  
-- Exploratory Data Analysis  
-- Data Cleaning  
+- Exploratory Data Analysis (EDA)
+
+### 🌐 Web & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,fastapi,flask,tailwind,nodejs" />
+</p>
+
+### 🛢️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+- Jupyter Notebook  
+- Google Colab  
 - Tableau  
 - Power BI  
 
-### Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+---
 
-### CS Fundamentals
-- Data Structures & Algorithms (Java)  
-- Object-Oriented Programming  
-- Operating Systems  
-- DBMS  
-- Computer Networks  
+# 🚀 Featured Projects
 
 ---
 
-## Featured Projects
-## 🚀 Featured Projects
+## 📚 StudyMind — AI Teaching Assistant
 
-### 📚 StudyMind — AI Teaching Assistant
-**Tech Stack:** Python, FastAPI, React, PostgreSQL, Gemini API, Tailwind CSS
+### 🛠️ Tech Stack
+Python • FastAPI • React • PostgreSQL • Gemini API • Tailwind CSS
 
-- Built an AI-powered RAG (Retrieval-Augmented Generation) assistant that answers questions from uploaded PDFs in natural language
-- Implemented end-to-end document pipeline using `pdfplumber`, embeddings, cosine similarity, and Gemini LLMs
-- Developed vector-search workflow with PostgreSQL for semantic document retrieval
-- Designed modern glassmorphism chat UI with real-time AI responses
-- Planned scalable improvements including `pgvector`, JWT auth, quiz generation, and AWS deployment
-  
----
+### ✨ Features
+- Built a complete **RAG (Retrieval-Augmented Generation)** pipeline from scratch
+- Upload PDFs and ask questions in natural language
+- Semantic document retrieval using embeddings + cosine similarity
+- Integrated Gemini embeddings and LLM APIs
+- Modern glassmorphism UI with real-time AI chat responses
+- Optimized document chunking and retrieval pipeline
 
-### Advanced Glaucoma Detection System
-**Tech Stack:** Python, OpenCV, Scikit-learn, Image Processing  
+### 📌 Highlights
+- Supports intelligent Q&A directly from uploaded study material
+- Designed scalable backend architecture for future pgvector integration
+- Built and deployed core system within **2 days**
 
-- Hybrid pipeline integrating CDR, ISNT, and GLCM texture analysis  
-- Voting logic using tissue entropy for blurry or over-exposed images  
-- Clinical thresholds (CDR > 0.6, I>S>N>T) for early detection  
-- Reduced false positives in complex cases such as macrocups and tilted discs  
-
----
-
-### TRAVELMAiT — AI-Powered Travel Planner
-**Tech Stack:** Python, Flask, Machine Learning, NLP, SQL, HTML/CSS  
-
-- Recommendation system achieving ~87% accuracy for itinerary prediction  
-- NLP model with 90% precision in extracting user intent  
-- Improved trip planning efficiency by ~60%  
-- Compatibility-matching algorithm enabling real-time user pairing for shared trips  
+🔗 **GitHub Repo:**  
+https://github.com/anshhh1101/studymind
 
 ---
 
-## Achievements & Certifications
+## 👁️ Advanced Glaucoma Detection System
 
-- Top 50 teams in Smart India Hackathon 2025 (TRAVELMAiT project)  
-- Solved 200+ DSA problems on LeetCode and GeeksforGeeks  
-- Google Data Analytics Professional Certificate  
-- SQL (Intermediate & Advanced) — HackerRank  
-- The Ultimate Job Ready Data Science Course — CodeWithHarry  
+### 🛠️ Tech Stack
+Python • OpenCV • Scikit-Learn • Image Processing
+
+### ✨ Features
+- Hybrid glaucoma detection pipeline using:
+  - CDR analysis
+  - ISNT rule
+  - GLCM texture analysis
+- Voting logic for blurry and over-exposed retinal images
+- Reduced false positives in complex cases:
+  - macrocups
+  - tilted discs
+- Clinical threshold integration for early detection
+
+### 📌 Highlights
+- Improved detection reliability in difficult retinal conditions
+- Combined traditional image processing with ML techniques
 
 ---
 
-## Education
+## ✈️ TRAVELMAiT — AI-Powered Travel Planner
 
-**B.Tech in Computer Science and Engineering (2023–2027)**  
-Kalinga Institute of Industrial Technology  
-CGPA: 8.40  
+### 🛠️ Tech Stack
+Python • Flask • Machine Learning • NLP • SQL • HTML/CSS
 
-**CBSE Class XII (2023)** — 75%  
-**CBSE Class X (2021)** — 95%  
+### ✨ Features
+- AI-based itinerary recommendation system
+- NLP model for extracting user intent
+- Compatibility matching for shared trips
+- Real-time travel recommendations
+
+### 📌 Highlights
+- Achieved ~87% itinerary prediction accuracy
+- NLP intent extraction precision of ~90%
+- Improved travel planning efficiency by ~60%
+
+🏆 Selected among **Top 50 Teams in Smart India Hackathon 2025**
 
 ---
 
-## Contact
+# 🏆 Achievements & Certifications
 
-LinkedIn: https://linkedin.com/in/anshumandev1101  
-GitHub: https://github.com/anshhh1101  
-Email: anshumandev1101@gmail.com
+🏅 Top 50 Teams — Smart India Hackathon 2025  
+🏅 Solved 200+ DSA Problems on LeetCode & GeeksforGeeks  
+🏅 Google Data Analytics Professional Certificate  
+🏅 SQL (Intermediate & Advanced) — HackerRank  
+🏅 The Ultimate Job Ready Data Science Course — CodeWithHarry  
+
+---
+
+# 📚 Education
+
+### 🎓 B.Tech in Computer Science & Engineering (2023–2027)
+**Kalinga Institute of Industrial Technology (KIIT)**  
+CGPA: **8.40**
+
+### 🏫 CBSE Class XII (2023)
+Score: **75%**
+
+### 🏫 CBSE Class X (2021)
+Score: **95%**
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anshhh1101&show_icons=true&theme=tokyonight" alt="github stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshhh1101&theme=tokyonight" alt="github streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshhh1101&layout=compact&theme=tokyonight" alt="top languages" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/anshumandev1101" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="https://github.com/anshhh1101" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+</p>
+
+📧 Email: **anshumandev1101@gmail.com**
+
+---
+
+<p align="center">
+  ⭐️ From <a href="https://github.com/anshhh1101">Anshuman Dev</a>
+</p>
