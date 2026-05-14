@@ -7,10 +7,10 @@
 ## 🚀 About Me
 
 🎓 B.Tech Computer Science & Engineering student at **Kalinga Institute of Industrial Technology (KIIT)**  
-🤖 Passionate about **Artificial Intelligence, Machine Learning, and Data Science**  
+🤖 Passionate about **Artificial Intelligence, Machine Learning,Full Stack, and Data Science**  
 💡 Interested in building real-world AI systems and intelligent applications  
 📈 Currently improving my skills in **Generative AI, Deep Learning, and System Design**  
-💻 Solved **200+ DSA problems** on LeetCode & GeeksforGeeks  
+💻 Solved **300+ DSA problems** on LeetCode & GeeksforGeeks  
 
 ---
 
