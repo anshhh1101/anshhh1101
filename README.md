@@ -2,12 +2,6 @@
 
 <h3 align="center">AI/ML Enthusiast • Data Science Learner • Full-Stack Developer</h3>
 
-<p align="center">
-  <a href="https://github.com/anshhh1101">
-    <img src="https://komarev.com/ghpvc/?username=anshhh1101&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -20,7 +14,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
 <p>
@@ -83,7 +77,7 @@ Python • FastAPI • React • PostgreSQL • Gemini API • Tailwind CSS
 ### 📌 Highlights
 - Supports intelligent Q&A directly from uploaded study material
 - Designed scalable backend architecture for future pgvector integration
-- Built and deployed core system within **2 days**
+- Built core system within **2 days**
 
 🔗 **GitHub Repo:**  
 https://github.com/anshhh1101/studymind
@@ -153,22 +147,6 @@ Score: **75%**
 
 ### 🏫 CBSE Class X (2021)
 Score: **95%**
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshhh1101&show_icons=true&theme=tokyonight" alt="github stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshhh1101&theme=tokyonight" alt="github streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshhh1101&layout=compact&theme=tokyonight" alt="top languages" />
-</p>
 
 ---
 
