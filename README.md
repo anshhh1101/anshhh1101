@@ -26,7 +26,7 @@ I build AI-powered systems — from RAG pipelines and computer vision models to 
 ## Projects
 
 ### [TRAVELMAiT V2](https://github.com/anshhh1101/TravelMAiT-V2) — AI Travel Planner
-> Top 50 Smart India Hackathon 2025
+> Top 50 Smart India Hackathon 2025 · Live: [travelmait-v2.vercel.app](https://travelmait-v2.vercel.app)
 
 Mood-based itinerary generation for offbeat Odisha destinations, group travel matchmaking, and multi-modal transport sorting. Built on a curated dataset of 100 Odisha locations with RAG-powered recommendations.
 
