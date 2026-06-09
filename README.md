@@ -18,8 +18,9 @@ B.Tech CSE @ KIIT Bhubaneswar · CGPA 8.40 · Batch 2027
 I build AI-powered systems — from RAG pipelines and computer vision models to full-stack web apps. Currently in my placement year, targeting AI/ML, Data Science, and SWE roles. I care about shipping things that actually work, not just things that look good on paper.
 
 - 🏆 Top 50 — Smart India Hackathon 2025
-- 💻 300+ DSA problems solved (LeetCode + GFG)
+- 💻 400+ DSA problems solved (LeetCode + GFG)
 - 🎓 Google Data Analytics Professional Certificate · HackerRank SQL · Cisco NetAcad
+- 🎓 Data Science — CodeWithHarry · Power BI — ExcelR
 
 ---
 
