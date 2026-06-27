@@ -21,10 +21,6 @@
 </p>
 
 <p align="center">
-  <a href="https://travelmait-v2.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-travelmait--v2.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  &nbsp;
   <a href="https://linkedin.com/in/anshuman-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Anshuman%20Dev-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
