@@ -354,14 +354,6 @@ Completed a structured six-month virtual internship program through Cisco Networ
 
 ---
 
-## ◈ GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anshhh1101&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</p>
-
----
-
 ## ◈ Contribution Activity
 
 <p align="center">
@@ -423,9 +415,7 @@ current_focus:
     <img src="https://img.shields.io/badge/GitHub-anshhh1101-5b21b6?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://travelmait-v2.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-travelmait--v2.vercel.app-4c1d95?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+
 </p>
 
 ---
